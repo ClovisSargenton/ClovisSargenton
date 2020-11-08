@@ -2,18 +2,18 @@
 
 ## I'm a Developer learning @ EPITECH
 
-### Connect with me
+### Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
-### Languages
+### Languages:
 
 [<img align="left" alt="javascript" width="30px" src="https://simpleicons.org/icons/javascript.svg" />][javascript]
 [<img align="left" alt="python" width="30px" src="https://simpleicons.org/icons/python.svg" />][python]
 [<img align="left" alt="java" width="30px" src="https://simpleicons.org/icons/java.svg" />][java]
 [<img align="left" alt="c" width="30px" src="https://simpleicons.org/icons/c.svg" />][c]
 
-### Tools
+### Tools:
 
 [<img align="left" alt="vscode" width="30px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
 [<img align="left" alt="git" width="30px" src="https://simpleicons.org/icons/git.svg" />][git]
