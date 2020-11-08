@@ -5,6 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+<br />
 
 ### Languages:
 
@@ -12,6 +13,7 @@
 [<img align="left" alt="python" width="30px" src="https://simpleicons.org/icons/python.svg" />][python]
 [<img align="left" alt="java" width="30px" src="https://simpleicons.org/icons/java.svg" />][java]
 [<img align="left" alt="c" width="30px" src="https://simpleicons.org/icons/c.svg" />][c]
+<br />
 
 ### Tools:
 
@@ -19,6 +21,7 @@
 [<img align="left" alt="git" width="30px" src="https://simpleicons.org/icons/git.svg" />][git]
 [<img align="left" alt="github" width="30px" src="https://simpleicons.org/icons/github.svg" />][github]
 [<img align="left" alt="terminal" width="30px" src="https://simpleicons.org/icons/gnubash.svg" />][terminal]
+<br />
 
 
 
