@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages:
