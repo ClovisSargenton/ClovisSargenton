@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a student Developer @ EPITECH!
+## I'm a student developer @ EPITECH!
 
 ### Connect with me:
 
